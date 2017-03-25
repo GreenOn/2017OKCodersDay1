@@ -1,0 +1,19 @@
+{
+  "name": "okcoders-day-1",
+  "version": "1.0.0",
+  "description": "First day of the class.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreenOn/2017OKCodersDay1.git"
+  },
+  "author": "Pramod vadrevu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GreenOn/2017OKCodersDay1/issues"
+  },
+  "homepage": "https://github.com/GreenOn/2017OKCodersDay1#readme"
+}
