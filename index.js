@@ -1,5 +1,5 @@
 var http = require('http');
-const PORT = 8080;
+const PORT = process.env.PORT || 8080;
 function handleRequest(req, resp){
 	resp.end('<h1>Welcome to my Webpage');
 }
