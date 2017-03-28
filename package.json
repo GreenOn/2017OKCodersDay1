@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GreenOn/2017OKCodersDay1/issues"
   },
-  "homepage": "https://github.com/GreenOn/2017OKCodersDay1#readme"
+  "homepage": "https://github.com/GreenOn/2017OKCodersDay1#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
 }
